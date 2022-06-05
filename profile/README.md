@@ -1,5 +1,22 @@
 ![banner](https://user-images.githubusercontent.com/3408362/172068418-b094ea91-57b9-4700-a205-9b8a311912b0.png)
 
+# Concepts & Ideas
+The "Friends of Pooly" community is currently exploring fun and interesting ways to extend the Pooly utility.
+
+Want to get involved?
+
+Join the Discord: https://discord.gg/Z9NsNZFTm6
+
+| Example Idea 1   | Example Idea 2     | Example Idea 3     |
+| ---------------- | ------------------ | ------------------ |
+|  ![concept _ collectible-limited-mint _ board](https://user-images.githubusercontent.com/3408362/172068882-26ab6e67-492b-45ea-8c20-4f09a2a65d61.png)| ![concept _ custom-design _ board](https://user-images.githubusercontent.com/3408362/172068848-bc2e907a-79b8-4817-98a8-0e96f290d122.png) | ![concept _ evolution _ board](https://user-images.githubusercontent.com/3408362/172068849-ae69737f-0284-4ad0-a6a2-a392dd0e07ad.png) |
+
+# Labs
+
+The "Pooly Lab" module is a supercharged mono-repo: _built for rapid prototyping_.
+
+Bringing together smart contracts, interfaces and other utility libraries into a professional Web3 developer environment, while also having very few opinions about how a project should be structured. The Labs uses [Turborepo](https://turborepo.org/) to accelerate development via a high-performance build system for JavaScript and TypeScript codebases.
+
 ## Applications
 
 ### [Pooly PFP App](https://github.com/pooly-cards/pooly-labs/tree/main/apps/pfp-app)
@@ -43,12 +60,3 @@ contract PoolyPFP is ERC721Royalty, Ownable {
 The "[SVG Library Smart Contracts](https://github.com/pooly-cards/pooly-labs/tree/main/packages/svg-lib-sol)" module (`@pooly-cards/svg-lib-sol`) is an experimental smart contract library for constructing, dynamic SVG's using on-chain data feeds: token balances, vault staking, soulbound items, etc...
 
 Forked from https://github.com/w1nt3r-eth/hot-chain-svg the contracts will continue to expand on-chain SVG construction patterns. Specifically how to create/add in-bound data streams using gas-efficient data structures.
-
-# Concepts & Ideas
-The "Friends of Pooly" community is currently exploring fun and interesting ways to extend the Pooly utility.
-
-Join the Discord: https://discord.gg/Z9NsNZFTm6
-
-| Example Idea 1   | Example Idea 2     | Example Idea 3     |
-| ---------------- | ------------------ | ------------------ |
-|  ![concept _ collectible-limited-mint _ board](https://user-images.githubusercontent.com/3408362/172068882-26ab6e67-492b-45ea-8c20-4f09a2a65d61.png)| ![concept _ custom-design _ board](https://user-images.githubusercontent.com/3408362/172068848-bc2e907a-79b8-4817-98a8-0e96f290d122.png) | ![concept _ evolution _ board](https://user-images.githubusercontent.com/3408362/172068849-ae69737f-0284-4ad0-a6a2-a392dd0e07ad.png) |
