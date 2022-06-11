@@ -4,7 +4,7 @@
 Friends of [@PoolyNFT ](https://twitter.com/PoolyNFT) supporting community driven growth to Let Pooly Fly
 
 ## Resources
-- [Labs](https://github.com/friends-of-pooly/pooly-labs): ⚗️Laboratory for evolving Pooly experiments
+- [Labs](https://github.com/friends-of-pooly/pooly-labs): Laboratory for evolving Pooly experiments
 - [Assets](https://github.com/friends-of-pooly/pooly-assets): Collection of Pooly assets: avatars, icons, models, etc...
 
 ## Concepts & Ideas
